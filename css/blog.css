@@ -1,0 +1,19 @@
+#ayuda h3, h4 {
+   text-align: center;
+}
+
+#ayuda .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+#ayuda article {
+    margin: 15px;
+}
+
+#ayuda img {
+    width: 100%;
+    max-width: 280px;
+}
